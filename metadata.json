@@ -1,0 +1,6 @@
+{
+  "name": "Guest Reception Management",
+  "description": "Sistem manajemen penerimaan tamu untuk apartemen, rusunami, dan gedung hunian.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
